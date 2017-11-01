@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
     SeekBar seekBar;
     int counter=10;
 
+    //doing this to test github only
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
